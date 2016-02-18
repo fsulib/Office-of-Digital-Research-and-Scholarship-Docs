@@ -1,6 +1,8 @@
-#FLORIDA STATE UNIVERSITY FACULTY SENATE OPEN ACCESS POLICY#
+FLORIDA STATE UNIVERSITY FACULTY SENATE OPEN ACCESS POLICY
+------
 * Compiled, reviewed, and approved by the Faculty Senate Library Committee - Task Force on Scholarly Communication, 6 January 2016. 
-* Presented to Faculty Senate Steering Committee, 12 Jan 2016. Presented to Faculty Senate, 17 Feb 2016.
+* Presented to Faculty Senate Steering Committee, 12 Jan 2016. 
+* Presented to Faculty Senate, 17 Feb 2016.
  
  
 PURPOSE

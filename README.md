@@ -5,7 +5,7 @@
 Scholarly Communication
 ------
 
-* [Open Access Policy](Office-of-Digital-Research-and-Scholarship-Docs/oapolicy.md)
+* [Open Access Policy](https://github.com/fsulib/Office-of-Digital-Research-and-Scholarship-Docs/blob/master/oapolicy.md)
 
 Digital Scholarship
 -----

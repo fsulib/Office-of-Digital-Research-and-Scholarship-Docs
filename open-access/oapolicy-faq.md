@@ -1,3 +1,4 @@
+![FSU Logo](https://github.com/fsulib/Office-of-Digital-Research-and-Scholarship-Docs/blob/master/assets/Libraries-H-1.jpg)
 # Faculty Senate Open Access Policy: FAQ
 
 ### 1.1	What is open access?

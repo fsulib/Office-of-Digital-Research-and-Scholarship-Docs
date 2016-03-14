@@ -1,4 +1,4 @@
-![FSU Logo](https://github.com/fsulib/Office-of-Digital-Research-and-Scholarship-Docs/blob/master/assets/Libraries-H-2.jpg)
+![FSU Logo](https://github.com/fsulib/Office-of-Digital-Research-and-Scholarship-Docs/blob/master/assets/Libraries-H-2.jpeg)
 FLORIDA STATE UNIVERSITY FACULTY SENATE OPEN ACCESS POLICY
 ------
 * Compiled, reviewed, and approved by the Faculty Senate Library Committee - Task Force on Scholarly Communication, 6 January 2016. 

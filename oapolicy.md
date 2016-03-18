@@ -25,7 +25,7 @@ the Mission. (See https://www.lib.fsu.edu/drs/open-access-resolution).
 
 <sup>2</sup> “Scholarly articles” are articles that describe the fruits of scholars’ research and are given to the world 
 for the sake of inquiry and knowledge without expectation of payment. Such articles are typically 
-presented in peer-review journals and conference proceedings.     
+presented in peer-reviewed journals and conference proceedings.     
 
 <sup>3</sup> The goal of which is the open access deposit of the article in DigiNole and returning many rights to 
 authors after later copyright transfer to a publisher. This is the only way the license will ever be acted on 

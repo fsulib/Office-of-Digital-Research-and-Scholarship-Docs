@@ -10,6 +10,7 @@ Scholarly Communication
 
 Digital Scholarship
 -----
+Research and writing on digital humanities pedagogy
 
 Data Management
 ------

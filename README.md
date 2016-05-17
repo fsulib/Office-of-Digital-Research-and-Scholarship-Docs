@@ -10,7 +10,7 @@ Scholarly Communication
 
 Digital Scholarship
 -----
-Research and writing on digital humanities pedagogy
+* [Research and writing on digital humanities pedagogy](https://github.com/fsulib/Office-of-Digital-Research-and-Scholarship-Docs/dhpedagogy.md)
 
 Data Management
 ------
